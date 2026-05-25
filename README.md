@@ -34,6 +34,7 @@ Free online **AI image generators**, **AI photo editors**, **image-to-image AI**
 - [**AI Photo Editor**](https://bestaiphotoeditor.app) — Best **free AI photo editor** online. Image-to-image AI photo editing, AI photo generator, photo-to-photo AI, and AI photo text editor.
 - [**AI Image Editor**](https://ai-image-editor.online) — Free **AI image editor** online. Image-to-image AI, AI photo editing, AI image generator, and AI image text editor.
 - [**AI Room Design**](https://airoom-design.com) — **AI room design generator** and AI home photo editor. AI interior design from images or text prompts; AI room planner and image redesign.
+- [**LandscapioAI**](https://www.landscapioai.com/) — AI landscape design generator and yard planner for transforming outdoor photos into landscaping concepts, planting guidance, project zones, and cost estimates.
 
 ## AI Video Generators
 
