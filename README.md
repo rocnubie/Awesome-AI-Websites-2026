@@ -33,6 +33,7 @@ Free online **AI image generators**, **AI photo editors**, **image-to-image AI**
 - [**Z-Image**](https://z-image.club) — Free **Z-Image Turbo** AI image generator and Z-Image LoRA editor. Text-to-image and image-to-image.
 - [**AI Photo Editor**](https://bestaiphotoeditor.app) — Best **free AI photo editor** online. Image-to-image AI photo editing, AI photo generator, photo-to-photo AI, and AI photo text editor.
 - [**AI Image Editor**](https://ai-image-editor.online) — Free **AI image editor** online. Image-to-image AI, AI photo editing, AI image generator, and AI image text editor.
+- [**PhotoRestore.ai**](https://photorestore.ai) — Free **AI old photo restoration** online. Repair scratches, fading, tears in old photos and colorize black-and-white images automatically.
 - [**AI Room Design**](https://airoom-design.com) — **AI room design generator** and AI home photo editor. AI interior design from images or text prompts; AI room planner and image redesign.
 
 ## AI Video Generators
