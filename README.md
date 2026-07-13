@@ -40,6 +40,7 @@ Free online **AI image generators**, **AI photo editors**, **image-to-image AI**
 Free **AI video generators** online — **text-to-video**, **image-to-video**, **AI dance videos**, and viral **UGC ad video** makers. Built on Seedance, Sora 2, Kling, Veo, and more.
 
 - [**Seedance 2.0 AI Video Generator**](https://seedance2video.online) — Create AI videos with ByteDance **Seedance 2.0**. Text-to-video, image-to-video, image editing. Best AI video generator 2026.
+- [**ImagineClip**](https://imagineclip.com/ai-text-to-video) — Freemium AI video creator for prompt and image-based clips with creative effects.
 - [**SeeDance AI**](https://seedanceai.online) — Free **Seedance 1.0** and **Seedance 1.0 Pro** AI video maker by ByteDance. AI video from image and text.
 - [**AI Dance**](https://aidance.live) — **AI dance generator** and AI wiggle generator. Turn photos into dance videos, replace characters in videos, AI face changer & swapper.
 - [**Ads AI Creator**](https://adsaicreator.com) — #1 **AI ads generator**. Product to viral video. UGC image ads, video ads, e-commerce promo videos powered by AI.
