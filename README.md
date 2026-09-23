@@ -72,6 +72,7 @@ Browse and copy trending **AI image prompts** for GPT Image, Nano Banana, Flux, 
 - [**Meigen AI**](https://meigenai.online) — Curated **Meigen AI prompts**. One-tap copy or instant generation for Nano Banana, Flux, GPT Image, Seedream, and Gemini.
 
 ## Browser-Native Audio & Video Tools (No Upload)
+- [NextReset](https://nextreset.ai/) - Independent, source-linked Codex reset history and official AI incident references, with a browser-local personal timer; no private account access or timing guarantees.
 
 These tools run **100% in your browser**. Files never leave your device — no uploads, no signups, no character or size caps.
 
