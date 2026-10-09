@@ -35,6 +35,8 @@ Free online **AI image generators**, **AI photo editors**, **image-to-image AI**
 - [**AI Image Editor**](https://ai-image-editor.online) — Free **AI image editor** online. Image-to-image AI, AI photo editing, AI image generator, and AI image text editor.
 - [**AI Room Design**](https://airoom-design.com) — **AI room design generator** and AI home photo editor. AI interior design from images or text prompts; AI room planner and image redesign.
 
+- [**LivePair AI**](https://livepairai.com) — AI image and video generation across 80+ models with private mode and agent APIs (MCP, OpenAPI, x402).
+
 ## AI Video Generators
 
 Free **AI video generators** online — **text-to-video**, **image-to-video**, **AI dance videos**, and viral **UGC ad video** makers. Built on Seedance, Sora 2, Kling, Veo, and more.
