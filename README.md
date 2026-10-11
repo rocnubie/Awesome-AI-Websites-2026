@@ -73,11 +73,12 @@ Browse and copy trending **AI image prompts** for GPT Image, Nano Banana, Flux, 
 
 ## Browser-Native Audio & Video Tools (No Upload)
 
-These tools run **100% in your browser**. Files never leave your device — no uploads, no signups, no character or size caps.
+These tools run **100% in your browser**. Files never leave your device — no uploads or signups. File and usage limits vary by tool.
 
 - [**Wordcast — Free Text to Speech**](https://wordcast.app) — Free **text-to-speech** for articles, PDFs, Word docs, and URLs. Uses your device's built-in voices. No signup, no upload, no character limit.
 - [**EarScribe — Audio to Text**](https://earscribe.app) — Private **audio transcription** in your browser. Audio-to-text with timestamps and **SRT / VTT subtitles** in 99 languages.
 - [**Free Video to Audio Converter**](https://videotoaudioconverter.org) — Convert **MP4, MOV, MKV, WebM** to **MP3, WAV, AAC, M4A, FLAC, OGG** inside your browser. No upload, no signup, no daily cap.
+- [**QuietTake Noise Remover**](https://noiseremover.site/) — Free speech background-noise removal with **RNNoise** running locally in your browser, original/cleaned playback and 48 kHz 16-bit WAV export; no account or audio upload, with both a 50 MB file limit and a five-minute duration limit.
 
 ## Writing & Citation Tools
 
@@ -105,7 +106,7 @@ The AI tooling space moves fast and most "top AI tools" lists are either out of 
 
 - **Free to start** (most have a free tier; some are fully free forever)
 - **Browser-based** (no install, works on Mac / Windows / Linux / mobile)
-- **Built on current-generation models** — Flux.2, Seedance 2.0, Sora 2, Gemini Nano Banana, Llama 4, Qwen 3.6, DeepSeek V4, Gemma 4, Z-Image Turbo
+- **Built on current-generation models** — Flux.2, Seedance 2.0, Sora 2, Gemini Nano Banana, Llama 4, Qwen 3.6, DeepSeek V4, Gemma 4, Z-Image Turbo; browser-native utilities can also use device voices or local models such as RNNoise
 - **Privacy-respecting** where it matters (Wordcast / EarScribe / Video-to-Audio Converter run 100% on-device)
 
 ## Keywords
