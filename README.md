@@ -33,6 +33,7 @@ Free online **AI image generators**, **AI photo editors**, **image-to-image AI**
 - [**Z-Image**](https://z-image.club) — Free **Z-Image Turbo** AI image generator and Z-Image LoRA editor. Text-to-image and image-to-image.
 - [**AI Photo Editor**](https://bestaiphotoeditor.app) — Best **free AI photo editor** online. Image-to-image AI photo editing, AI photo generator, photo-to-photo AI, and AI photo text editor.
 - [**AI Image Editor**](https://ai-image-editor.online) — Free **AI image editor** online. Image-to-image AI, AI photo editing, AI image generator, and AI image text editor.
+- [**AI 만화 번역기**](https://www.mangatranslate.com/ko/ai-manga-translator/) — Ficory LLC의 기업급 만화 리더는 Manga 모델로 이미지 문자를 인식하고 대사를 번역하며 개인의 일괄·맞춤 번역, 스튜디오용 완전한 온라인 Photoshop 스타일 편집기, API를 통한 개인 작업 흐름 연동과 제품이 지원하는 모든 번역 언어를 제공하고, 제한된 무료 사용량과 유료 옵션을 제공합니다.
 - [**AI Room Design**](https://airoom-design.com) — **AI room design generator** and AI home photo editor. AI interior design from images or text prompts; AI room planner and image redesign.
 
 ## AI Video Generators
