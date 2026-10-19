@@ -12,7 +12,7 @@ If this list helps you, please **star the repo** so more people can find it.
 - [AI Video Generators](#ai-video-generators)
 - [AI Face Swap & Photo Filters](#ai-face-swap--photo-filters)
 - [AI Chat & LLM Playgrounds](#ai-chat--llm-playgrounds)
-- [AI Music & Audio Generators](#ai-music--audio-generators)
+- [AI Music & Audio Tools](#ai-music--audio-tools)
 - [AI Prompt Libraries](#ai-prompt-libraries)
 - [Browser-Native Audio & Video Tools (No Upload)](#browser-native-audio--video-tools-no-upload)
 - [Writing & Citation Tools](#writing--citation-tools)
@@ -60,9 +60,11 @@ Free **AI chat** playgrounds for Llama, Qwen, Gemma, and DeepSeek — test long 
 - [**Gemma AI**](https://gemmaai.online) — Free **Google Gemma** AI chat. Talk to Gemma 4 26B and 31B for natural conversation and advanced reasoning.
 - [**DeepSeek FR**](https://deepseekfr.org) — Independent **DeepSeek V4** playground in French. Pro & Flash, 1M-token context, reasoning, code, API, long documents.
 
-## AI Music & Audio Generators
+## AI Music & Audio Tools
 
 - [**Flow Music AI**](https://flowmusicai.app) — Free **AI music generator**. Turn one prompt into a finished royalty-free track with vocals and instruments in about 25 seconds.
+
+- [**Vocal Separator**](https://vocalseparator.com/) — Spleeter-based vocal and four-stem separation with WAV downloads, loops, tempo and pitch practice controls; anonymous free tier with usage limits and cloud uploads.
 
 ## AI Prompt Libraries
 
