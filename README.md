@@ -63,6 +63,7 @@ Free **AI chat** playgrounds for Llama, Qwen, Gemma, and DeepSeek — test long 
 ## AI Music & Audio Generators
 
 - [**Flow Music AI**](https://flowmusicai.app) — Free **AI music generator**. Turn one prompt into a finished royalty-free track with vocals and instruments in about 25 seconds.
+- [**Aimusicgen**](https://aimusicgen.app) — Freemium **AI song generator** that turns a text description or your own lyrics into a full song with vocals or an instrumental, with 4 free credits a day after sign-in.
 
 ## AI Prompt Libraries
 
