@@ -63,6 +63,7 @@ Free **AI chat** playgrounds for Llama, Qwen, Gemma, and DeepSeek — test long 
 ## AI Music & Audio Generators
 
 - [**Flow Music AI**](https://flowmusicai.app) — Free **AI music generator**. Turn one prompt into a finished royalty-free track with vocals and instruments in about 25 seconds.
+- [**ReelSongFinder**](https://reelsongfinder.com/song-identifier) — Free online **song identifier** for Instagram Reels, TikTok and Shorts. Paste a link or upload a screen recording to find the track.
 
 ## AI Prompt Libraries
 
