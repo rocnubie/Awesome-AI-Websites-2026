@@ -78,6 +78,7 @@ These tools run **100% in your browser**. Files never leave your device — no u
 - [**Wordcast — Free Text to Speech**](https://wordcast.app) — Free **text-to-speech** for articles, PDFs, Word docs, and URLs. Uses your device's built-in voices. No signup, no upload, no character limit.
 - [**EarScribe — Audio to Text**](https://earscribe.app) — Private **audio transcription** in your browser. Audio-to-text with timestamps and **SRT / VTT subtitles** in 99 languages.
 - [**Free Video to Audio Converter**](https://videotoaudioconverter.org) — Convert **MP4, MOV, MKV, WebM** to **MP3, WAV, AAC, M4A, FLAC, OGG** inside your browser. No upload, no signup, no daily cap.
+- [**Karaoke Captions**](https://karaokecaptions.com/) — Whisper-powered word-by-word video captions processed locally in the browser, with free watermark-free Classic/Lyrics exports and optional Pro styles.
 
 ## Writing & Citation Tools
 
