@@ -42,6 +42,7 @@ Free **AI video generators** online — **text-to-video**, **image-to-video**, *
 - [**Seedance 2.0 AI Video Generator**](https://seedance2video.online) — Create AI videos with ByteDance **Seedance 2.0**. Text-to-video, image-to-video, image editing. Best AI video generator 2026.
 - [**SeeDance AI**](https://seedanceai.online) — Free **Seedance 1.0** and **Seedance 1.0 Pro** AI video maker by ByteDance. AI video from image and text.
 - [**AI Dance**](https://aidance.live) — **AI dance generator** and AI wiggle generator. Turn photos into dance videos, replace characters in videos, AI face changer & swapper.
+- [**Dance AI Generator**](https://danceaigenerator.com/?utm_source=github&utm_medium=github&utm_campaign=rocnubie_Awesome-AI-Websites-2026) — **AI dance video generator**: turn one photo of a person or pet into a 6-second 9:16 dance video. Free photo check; one-time from $4.90.
 - [**Ads AI Creator**](https://adsaicreator.com) — #1 **AI ads generator**. Product to viral video. UGC image ads, video ads, e-commerce promo videos powered by AI.
 
 ## AI Face Swap & Photo Filters
