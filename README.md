@@ -62,6 +62,8 @@ Free **AI chat** playgrounds for Llama, Qwen, Gemma, and DeepSeek — test long 
 
 ## AI Music & Audio Generators
 
+- [**No Stairs Please**](https://nostairsplease.com/) — **Live music venue directory & MCP server** covering every small stage in all 50 US states and who books it, with a free browser directory and [MCP endpoint](https://nostairsplease.com/mcp) for ChatGPT and Claude.
+
 - [**Flow Music AI**](https://flowmusicai.app) — Free **AI music generator**. Turn one prompt into a finished royalty-free track with vocals and instruments in about 25 seconds.
 
 ## AI Prompt Libraries
